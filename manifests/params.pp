@@ -35,9 +35,4 @@ class jmeter::params {
     }
   }
 
-  if $jmeter_version == '2.9' {
-    $jmeter_checksum = '0f62c5173fc0bd46f4fe4e850ca8906e612fdaf9'
-  } elsif $jmeter_version == '3.3' {
-    $jmeter_checksum = 'aa08f999dbc89f171c78556ed5e93379c8b53b1d'
-  }
 }

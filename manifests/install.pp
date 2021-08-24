@@ -45,7 +45,7 @@ class jmeter::install {
   #
   # Between the URLs w/ redirects, the link structure, and the versioning,
   # this section could still be kind of fragile, so overriding these
-  # parameters would need to be done carefully, and versions / checksums may
+  # parameters would need to be done carefully, and versions may
   # need to be kept up-to-date.
   #
 
